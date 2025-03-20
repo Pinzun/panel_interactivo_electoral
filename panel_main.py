@@ -3,6 +3,7 @@ import pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder
 from scripts.Calcula_integracion_dip import calcula_integracion as calcular_d
 from scripts.Calcula_integracion_senadores import calcula_integracion as calcular_s
+from pathlib import Path
 
 # Función para resaltar en negrita la fila de totales
 def highlight_totals(row):
@@ -25,8 +26,8 @@ data = {
 }
 
 df = pd.DataFrame(data)
-
-with open("images\diagrama_metodologia.drawio.svg", encoding="utf-8") as f:
+ruta_imagen = Path("images") / "diagrama_metodologia.drawio.svg"
+with open(ruta_imagen, encoding="utf-8") as f:
     svg_code = f.read()
 
 
