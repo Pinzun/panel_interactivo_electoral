@@ -1,0 +1,2078 @@
+[
+    {
+        "comuna":"ANTOFAGASTA",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":3
+    },
+    {
+        "comuna":"CALAMA",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"MARIA ELENA",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"MEJILLONES",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"OLLAGUE",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN PEDRO DE ATACAMA",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"SIERRA GORDA",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"TALTAL",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"TOCOPILLA",
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":5
+    },
+    {
+        "comuna":"ARICA",
+        "region":"DE ARICA Y PARINACOTA",
+        "Circunscripcion":15,
+        "Senadores":2
+    },
+    {
+        "comuna":"CAMARONES",
+        "region":"DE ARICA Y PARINACOTA",
+        "Circunscripcion":15,
+        "Senadores":2
+    },
+    {
+        "comuna":"GENERAL LAGOS",
+        "region":"DE ARICA Y PARINACOTA",
+        "Circunscripcion":15,
+        "Senadores":2
+    },
+    {
+        "comuna":"PUTRE",
+        "region":"DE ARICA Y PARINACOTA",
+        "Circunscripcion":15,
+        "Senadores":2
+    },
+    {
+        "comuna":"ALTO DEL CARMEN",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"CALDERA",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"CHA\u00d1ARAL",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"COPIAPO",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"DIEGO DE ALMAGRO",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"FREIRINA",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"HUASCO",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"TIERRA AMARILLA",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"VALLENAR",
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "comuna":"AYSEN",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"CHILE CHICO",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"CISNES",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"COCHRANE",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"COYHAIQUE",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"GUAITECAS",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"LAGO VERDE",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"O'HIGGINS",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"RIO IBA\u00d1EZ",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"TORTEL",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "comuna":"ANDACOLLO",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"CANELA",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"COMBARBALA",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"COQUIMBO",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"ILLAPEL",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"LA HIGUERA",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"LA SERENA",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOS VILOS",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"MONTE PATRIA",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"OVALLE",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"PAIHUANO",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUNITAQUI",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"RIO HURTADO",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"SALAMANCA",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"VICU\u00d1A",
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "comuna":"ANGOL",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"CARAHUE",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"CHOLCHOL",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"COLLIPULLI",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"CUNCO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"CURACAUTIN",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"CURARREHUE",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"ERCILLA",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"FREIRE",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"GALVARINO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"GORBEA",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"LAUTARO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"LONCOCHE",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"LONQUIMAY",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"LOS SAUCES",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"LUMACO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"MELIPEUCO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"NUEVA IMPERIAL",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"PADRE LAS CASAS",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"PERQUENCO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"PITRUFQUEN",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"PUCON",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"PUREN",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"RENAICO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAAVEDRA",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"TEMUCO",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"TEODORO SCHMIDT",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"TOLTEN",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"TRAIGUEN",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"VICTORIA",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"VILCUN",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"VILLARRICA",
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "comuna":"ANCUD",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"CALBUCO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"CASTRO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"CHAITEN",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"CHONCHI",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"COCHAMO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"CURACO DE VELEZ",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"DALCAHUE",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"FRESIA",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"FRUTILLAR",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"FUTALEUFU",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"HUALAIHUE",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"LLANQUIHUE",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOS MUERMOS",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"MAULLIN",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"OSORNO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PALENA",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUERTO MONTT",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUERTO OCTAY",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUERTO VARAS",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUQUELDON",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PURRANQUE",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUYEHUE",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUEILEN",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUELLON",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUEMCHI",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUINCHAO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"RIO NEGRO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"SAN JUAN DE LA COSTA",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"SAN PABLO",
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "comuna":"CORRAL",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"FUTRONO",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"LA UNION",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"LAGO RANCO",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"LANCO",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOS LAGOS",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"MAFIL",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"MARIQUINA",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"PAILLACO",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"PANGUIPULLI",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"RIO BUENO",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"VALDIVIA",
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "comuna":"ANTARTICA",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"CABO DE HORNOS(EX-NAVARINO)",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"LAGUNA BLANCA",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"NATALES",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"PORVENIR",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"PRIMAVERA",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"PUNTA ARENAS",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"RIO VERDE",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"SAN GREGORIO",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"TIMAUKEL",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"TORRES DEL PAINE",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "comuna":"BULNES",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"CHILLAN",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"CHILLAN VIEJO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"COBQUECURA",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"COELEMU",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"COIHUECO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"EL CARMEN",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"NINHUE",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"PEMUCO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"PINTO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"PORTEZUELO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"QUILLON",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"QUIRIHUE",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"RANQUIL",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"SAN CARLOS",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"SAN FABIAN",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"SAN IGNACIO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"SAN NICOLAS",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"TREHUACO",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"YUNGAY",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"\u00d1IQUEN",
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    },
+    {
+        "comuna":"ALTO HOSPICIO",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"CAMI\u00d1A",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"COLCHANE",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"HUARA",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"IQUIQUE",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"PICA",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"POZO ALMONTE",
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "comuna":"ALGARROBO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CABILDO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CALERA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CALLE LARGA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CARTAGENA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CASABLANCA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CATEMU",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"CONCON",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"EL QUISCO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"EL TABO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"HIJUELAS",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"ISLA DE PASCUA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"JUAN FERNANDEZ",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA CRUZ",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA LIGUA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"LIMACHE",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"LLAY-LLAY",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"LOS ANDES",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"NOGALES",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"OLMUE",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"PANQUEHUE",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"PAPUDO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"PETORCA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"PUCHUNCAVI",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"PUTAENDO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"QUILLOTA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"QUILPUE",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"QUINTERO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"RINCONADA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN ANTONIO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN ESTEBAN",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN FELIPE",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"SANTA MARIA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"SANTO DOMINGO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"VALPARAISO",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"VILLA ALEMANA",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"VI\u00d1A DEL MAR",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"ZAPALLAR",
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "comuna":"ALTO BIOBIO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"ANTUCO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"ARAUCO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CABRERO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CA\u00d1ETE",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CHIGUAYANTE",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CONCEPCION",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CONTULMO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CORONEL",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CURANILAHUE",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"FLORIDA",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"HUALPEN",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"HUALQUI",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"LAJA",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"LEBU",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOS ALAMOS",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOS ANGELES",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOTA",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"MULCHEN",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"NACIMIENTO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"NEGRETE",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"PENCO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUILACO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUILLECO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"SAN PEDRO DE LA PAZ",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"SAN ROSENDO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"SANTA BARBARA",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"SANTA JUANA",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"TALCAHUANO",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"TIRUA",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"TOME",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"TUCAPEL",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"YUMBEL",
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "comuna":"CHEPICA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"CHIMBARONGO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"CODEGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"COINCO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"COLTAUCO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"DO\u00d1IHUE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"GRANEROS",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"LA ESTRELLA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"LAS CABRAS",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"LITUECHE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"LOLOL",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"MACHALI",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"MALLOA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"MARCHIGUE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"MOSTAZAL",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"NANCAGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"NAVIDAD",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"OLIVAR",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PALMILLA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PAREDONES",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PERALILLO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PEUMO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PICHIDEGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PICHILEMU",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PLACILLA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"PUMANQUE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"QUINTA DE TILCOCO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"RANCAGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"RENGO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"REQUINOA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"SAN FERNANDO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"SAN VICENTE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"SANTA CRUZ",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "comuna":"CAUQUENES",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"CHANCO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"COLBUN",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"CONSTITUCION",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"CUREPTO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"CURICO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"EMPEDRADO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"HUALA\u00d1E",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"LICANTEN",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"LINARES",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"LONGAVI",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"MAULE",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"MOLINA",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"PARRAL",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"PELARCO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"PELLUHUE",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"PENCAHUE",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"RAUCO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"RETIRO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"RIO CLARO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"ROMERAL",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAGRADA FAMILIA",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN CLEMENTE",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN JAVIER",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN RAFAEL",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"TALCA",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"TENO",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"VICHUQUEN",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"VILLA ALEGRE",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"YERBAS BUENAS",
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "comuna":"ALHUE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"BUIN",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"CALERA DE TANGO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"CERRILLOS",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"CERRO NAVIA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"COLINA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"CONCHALI",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"CURACAVI",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"EL BOSQUE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"EL MONTE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"ESTACION CENTRAL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"HUECHURABA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"INDEPENDENCIA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"ISLA DE MAIPO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA CISTERNA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA FLORIDA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA GRANJA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA PINTANA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LA REINA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LAMPA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LAS CONDES",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LO BARNECHEA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LO ESPEJO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"LO PRADO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"MACUL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"MAIPU",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"MARIA PINTO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"MELIPILLA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PADRE HURTADO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PAINE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PEDRO AGUIRRE CERDA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PE\u00d1AFLOR",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PE\u00d1ALOLEN",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PIRQUE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PROVIDENCIA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PUDAHUEL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"PUENTE ALTO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"QUILICURA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"QUINTA NORMAL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"RECOLETA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"RENCA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN BERNARDO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN JOAQUIN",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN JOSE DE MAIPO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN MIGUEL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN PEDRO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SAN RAMON",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"SANTIAGO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"TALAGANTE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"TILTIL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"VITACURA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "comuna":"\u00d1U\u00d1OA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    }
+]

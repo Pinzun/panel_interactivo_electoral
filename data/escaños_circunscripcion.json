@@ -1,0 +1,82 @@
+[
+    {
+        "region":"DE TARAPACA",
+        "Circunscripcion":1,
+        "Senadores":2
+    },
+    {
+        "region":"DE ANTOFAGASTA",
+        "Circunscripcion":2,
+        "Senadores":3
+    },
+    {
+        "region":"DE ATACAMA",
+        "Circunscripcion":3,
+        "Senadores":2
+    },
+    {
+        "region":"DE COQUIMBO",
+        "Circunscripcion":4,
+        "Senadores":3
+    },
+    {
+        "region":"DE VALPARAISO",
+        "Circunscripcion":5,
+        "Senadores":5
+    },
+    {
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Circunscripcion":6,
+        "Senadores":3
+    },
+    {
+        "region":"DEL MAULE",
+        "Circunscripcion":7,
+        "Senadores":5
+    },
+    {
+        "region":"DEL BIOBIO",
+        "Circunscripcion":8,
+        "Senadores":3
+    },
+    {
+        "region":"DE LA ARAUCANIA",
+        "Circunscripcion":9,
+        "Senadores":5
+    },
+    {
+        "region":"DE LOS LAGOS",
+        "Circunscripcion":10,
+        "Senadores":3
+    },
+    {
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Circunscripcion":11,
+        "Senadores":2
+    },
+    {
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Circunscripcion":12,
+        "Senadores":2
+    },
+    {
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Circunscripcion":13,
+        "Senadores":5
+    },
+    {
+        "region":"DE LOS RIOS",
+        "Circunscripcion":14,
+        "Senadores":3
+    },
+    {
+        "region":"DE ARICA Y PARINACOTA",
+        "Circunscripcion":15,
+        "Senadores":2
+    },
+    {
+        "region":"DE \u00d1UBLE",
+        "Circunscripcion":16,
+        "Senadores":2
+    }
+]

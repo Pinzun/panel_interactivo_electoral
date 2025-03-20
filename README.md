@@ -1,0 +1,1 @@
+Este proyecto es un panel interactivo para construir pactos electorales y obtener los resultados de cada uno de ellos, puede simular integraciones de diputados y senadores en Chile

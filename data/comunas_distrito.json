@@ -1,0 +1,2078 @@
+[
+    {
+        "comuna":"ANTOFAGASTA",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"CALAMA",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"MARIA ELENA",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"MEJILLONES",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"OLLAGUE",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN PEDRO DE ATACAMA",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"SIERRA GORDA",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"TALTAL",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"TOCOPILLA",
+        "region":"DE ANTOFAGASTA",
+        "Distrito":3,
+        "Diputados":5
+    },
+    {
+        "comuna":"ARICA",
+        "region":"DE ARICA Y PARINACOTA",
+        "Distrito":1,
+        "Diputados":3
+    },
+    {
+        "comuna":"CAMARONES",
+        "region":"DE ARICA Y PARINACOTA",
+        "Distrito":1,
+        "Diputados":3
+    },
+    {
+        "comuna":"GENERAL LAGOS",
+        "region":"DE ARICA Y PARINACOTA",
+        "Distrito":1,
+        "Diputados":3
+    },
+    {
+        "comuna":"PUTRE",
+        "region":"DE ARICA Y PARINACOTA",
+        "Distrito":1,
+        "Diputados":3
+    },
+    {
+        "comuna":"ALTO DEL CARMEN",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"CALDERA",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHA\u00d1ARAL",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"COPIAPO",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"DIEGO DE ALMAGRO",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"FREIRINA",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"HUASCO",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"TIERRA AMARILLA",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"VALLENAR",
+        "region":"DE ATACAMA",
+        "Distrito":4,
+        "Diputados":5
+    },
+    {
+        "comuna":"AYSEN",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"CHILE CHICO",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"CISNES",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"COCHRANE",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"COYHAIQUE",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"GUAITECAS",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"LAGO VERDE",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"O'HIGGINS",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"RIO IBA\u00d1EZ",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"TORTEL",
+        "region":"DE AYSEN DEL GENERAL CARLOS IBA\u00d1EZ DEL CAMPO",
+        "Distrito":27,
+        "Diputados":3
+    },
+    {
+        "comuna":"ANDACOLLO",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"CANELA",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"COMBARBALA",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"COQUIMBO",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"ILLAPEL",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"LA HIGUERA",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"LA SERENA",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"LOS VILOS",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"MONTE PATRIA",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"OVALLE",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"PAIHUANO",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"PUNITAQUI",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"RIO HURTADO",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"SALAMANCA",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"VICU\u00d1A",
+        "region":"DE COQUIMBO",
+        "Distrito":5,
+        "Diputados":7
+    },
+    {
+        "comuna":"ANGOL",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"CARAHUE",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"CHOLCHOL",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"COLLIPULLI",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"CUNCO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"CURACAUTIN",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"CURARREHUE",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"ERCILLA",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"FREIRE",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"GALVARINO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"GORBEA",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"LAUTARO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"LONCOCHE",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"LONQUIMAY",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"LOS SAUCES",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"LUMACO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"MELIPEUCO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"NUEVA IMPERIAL",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"PADRE LAS CASAS",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"PERQUENCO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"PITRUFQUEN",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"PUCON",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"PUREN",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"RENAICO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"SAAVEDRA",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"TEMUCO",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"TEODORO SCHMIDT",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"TOLTEN",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"TRAIGUEN",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"VICTORIA",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"VILCUN",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":22,
+        "Diputados":4
+    },
+    {
+        "comuna":"VILLARRICA",
+        "region":"DE LA ARAUCANIA",
+        "Distrito":23,
+        "Diputados":7
+    },
+    {
+        "comuna":"ANCUD",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"CALBUCO",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"CASTRO",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHAITEN",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHONCHI",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"COCHAMO",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"CURACO DE VELEZ",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"DALCAHUE",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"FRESIA",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"FRUTILLAR",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"FUTALEUFU",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"HUALAIHUE",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"LLANQUIHUE",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"LOS MUERMOS",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"MAULLIN",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"OSORNO",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"PALENA",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"PUERTO MONTT",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"PUERTO OCTAY",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"PUERTO VARAS",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"PUQUELDON",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"PURRANQUE",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"PUYEHUE",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"QUEILEN",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"QUELLON",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"QUEMCHI",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"QUINCHAO",
+        "region":"DE LOS LAGOS",
+        "Distrito":26,
+        "Diputados":5
+    },
+    {
+        "comuna":"RIO NEGRO",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"SAN JUAN DE LA COSTA",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"SAN PABLO",
+        "region":"DE LOS LAGOS",
+        "Distrito":25,
+        "Diputados":4
+    },
+    {
+        "comuna":"CORRAL",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"FUTRONO",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"LA UNION",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"LAGO RANCO",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"LANCO",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"LOS LAGOS",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"MAFIL",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"MARIQUINA",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"PAILLACO",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"PANGUIPULLI",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"RIO BUENO",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"VALDIVIA",
+        "region":"DE LOS RIOS",
+        "Distrito":24,
+        "Diputados":5
+    },
+    {
+        "comuna":"ANTARTICA",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"CABO DE HORNOS(EX-NAVARINO)",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"LAGUNA BLANCA",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"NATALES",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"PORVENIR",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"PRIMAVERA",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"PUNTA ARENAS",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"RIO VERDE",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"SAN GREGORIO",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"TIMAUKEL",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"TORRES DEL PAINE",
+        "region":"DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+        "Distrito":28,
+        "Diputados":3
+    },
+    {
+        "comuna":"BULNES",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHILLAN",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHILLAN VIEJO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"COBQUECURA",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"COELEMU",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"COIHUECO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"EL CARMEN",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"NINHUE",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"PEMUCO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"PINTO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"PORTEZUELO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"QUILLON",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"QUIRIHUE",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"RANQUIL",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN CARLOS",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN FABIAN",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN IGNACIO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN NICOLAS",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"TREHUACO",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"YUNGAY",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"\u00d1IQUEN",
+        "region":"DE \u00d1UBLE",
+        "Distrito":19,
+        "Diputados":5
+    },
+    {
+        "comuna":"ALTO HOSPICIO",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"CAMI\u00d1A",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"COLCHANE",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"HUARA",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"IQUIQUE",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"PICA",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"POZO ALMONTE",
+        "region":"DE TARAPACA",
+        "Distrito":2,
+        "Diputados":3
+    },
+    {
+        "comuna":"ALGARROBO",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"CABILDO",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"CALERA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"CALLE LARGA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"CARTAGENA",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"CASABLANCA",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"CATEMU",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"CONCON",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"EL QUISCO",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"EL TABO",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"HIJUELAS",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"ISLA DE PASCUA",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"JUAN FERNANDEZ",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"LA CRUZ",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"LA LIGUA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"LIMACHE",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"LLAY-LLAY",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"LOS ANDES",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"NOGALES",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"OLMUE",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"PANQUEHUE",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"PAPUDO",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"PETORCA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"PUCHUNCAVI",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"PUTAENDO",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"QUILLOTA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"QUILPUE",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"QUINTERO",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"RINCONADA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"SAN ANTONIO",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"SAN ESTEBAN",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"SAN FELIPE",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"SANTA MARIA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"SANTO DOMINGO",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"VALPARAISO",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"VILLA ALEMANA",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"VI\u00d1A DEL MAR",
+        "region":"DE VALPARAISO",
+        "Distrito":7,
+        "Diputados":8
+    },
+    {
+        "comuna":"ZAPALLAR",
+        "region":"DE VALPARAISO",
+        "Distrito":6,
+        "Diputados":8
+    },
+    {
+        "comuna":"ALTO BIOBIO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"ANTUCO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"ARAUCO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"CABRERO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"CA\u00d1ETE",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHIGUAYANTE",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"CONCEPCION",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"CONTULMO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"CORONEL",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"CURANILAHUE",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"FLORIDA",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"HUALPEN",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"HUALQUI",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"LAJA",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"LEBU",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"LOS ALAMOS",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"LOS ANGELES",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"LOTA",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"MULCHEN",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"NACIMIENTO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"NEGRETE",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"PENCO",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"QUILACO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"QUILLECO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN PEDRO DE LA PAZ",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"SAN ROSENDO",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"SANTA BARBARA",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"SANTA JUANA",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"TALCAHUANO",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"TIRUA",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"TOME",
+        "region":"DEL BIOBIO",
+        "Distrito":20,
+        "Diputados":8
+    },
+    {
+        "comuna":"TUCAPEL",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"YUMBEL",
+        "region":"DEL BIOBIO",
+        "Distrito":21,
+        "Diputados":5
+    },
+    {
+        "comuna":"CHEPICA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"CHIMBARONGO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"CODEGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"COINCO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"COLTAUCO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"DO\u00d1IHUE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"GRANEROS",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"LA ESTRELLA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"LAS CABRAS",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"LITUECHE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"LOLOL",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"MACHALI",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"MALLOA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"MARCHIGUE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"MOSTAZAL",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"NANCAGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"NAVIDAD",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"OLIVAR",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"PALMILLA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PAREDONES",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PERALILLO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PEUMO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PICHIDEGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PICHILEMU",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PLACILLA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"PUMANQUE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"QUINTA DE TILCOCO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"RANCAGUA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"RENGO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"REQUINOA",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":15,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN FERNANDO",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"SAN VICENTE",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"SANTA CRUZ",
+        "region":"DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS",
+        "Distrito":16,
+        "Diputados":4
+    },
+    {
+        "comuna":"CAUQUENES",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"CHANCO",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"COLBUN",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"CONSTITUCION",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"CUREPTO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"CURICO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"EMPEDRADO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"HUALA\u00d1E",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"LICANTEN",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"LINARES",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"LONGAVI",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"MAULE",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"MOLINA",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"PARRAL",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"PELARCO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"PELLUHUE",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"PENCAHUE",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"RAUCO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"RETIRO",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"RIO CLARO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"ROMERAL",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"SAGRADA FAMILIA",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"SAN CLEMENTE",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"SAN JAVIER",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"SAN RAFAEL",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"TALCA",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"TENO",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"VICHUQUEN",
+        "region":"DEL MAULE",
+        "Distrito":17,
+        "Diputados":7
+    },
+    {
+        "comuna":"VILLA ALEGRE",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"YERBAS BUENAS",
+        "region":"DEL MAULE",
+        "Distrito":18,
+        "Diputados":4
+    },
+    {
+        "comuna":"ALHUE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"BUIN",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"CALERA DE TANGO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"CERRILLOS",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"CERRO NAVIA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"COLINA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"CONCHALI",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"CURACAVI",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"EL BOSQUE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":13,
+        "Diputados":5
+    },
+    {
+        "comuna":"EL MONTE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"ESTACION CENTRAL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"HUECHURABA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"INDEPENDENCIA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"ISLA DE MAIPO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"LA CISTERNA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":13,
+        "Diputados":5
+    },
+    {
+        "comuna":"LA FLORIDA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":12,
+        "Diputados":7
+    },
+    {
+        "comuna":"LA GRANJA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":10,
+        "Diputados":8
+    },
+    {
+        "comuna":"LA PINTANA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":12,
+        "Diputados":7
+    },
+    {
+        "comuna":"LA REINA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":11,
+        "Diputados":6
+    },
+    {
+        "comuna":"LAMPA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"LAS CONDES",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":11,
+        "Diputados":6
+    },
+    {
+        "comuna":"LO BARNECHEA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":11,
+        "Diputados":6
+    },
+    {
+        "comuna":"LO ESPEJO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":13,
+        "Diputados":5
+    },
+    {
+        "comuna":"LO PRADO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"MACUL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":10,
+        "Diputados":8
+    },
+    {
+        "comuna":"MAIPU",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"MARIA PINTO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"MELIPILLA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"PADRE HURTADO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"PAINE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"PEDRO AGUIRRE CERDA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":13,
+        "Diputados":5
+    },
+    {
+        "comuna":"PE\u00d1AFLOR",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"PE\u00d1ALOLEN",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":11,
+        "Diputados":6
+    },
+    {
+        "comuna":"PIRQUE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":12,
+        "Diputados":7
+    },
+    {
+        "comuna":"PROVIDENCIA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":10,
+        "Diputados":8
+    },
+    {
+        "comuna":"PUDAHUEL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"PUENTE ALTO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":12,
+        "Diputados":7
+    },
+    {
+        "comuna":"QUILICURA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"QUINTA NORMAL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"RECOLETA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"RENCA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":9,
+        "Diputados":7
+    },
+    {
+        "comuna":"SAN BERNARDO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"SAN JOAQUIN",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":10,
+        "Diputados":8
+    },
+    {
+        "comuna":"SAN JOSE DE MAIPO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":12,
+        "Diputados":7
+    },
+    {
+        "comuna":"SAN MIGUEL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":13,
+        "Diputados":5
+    },
+    {
+        "comuna":"SAN PEDRO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"SAN RAMON",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":13,
+        "Diputados":5
+    },
+    {
+        "comuna":"SANTIAGO",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":10,
+        "Diputados":8
+    },
+    {
+        "comuna":"TALAGANTE",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":14,
+        "Diputados":6
+    },
+    {
+        "comuna":"TILTIL",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":8,
+        "Diputados":8
+    },
+    {
+        "comuna":"VITACURA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":11,
+        "Diputados":6
+    },
+    {
+        "comuna":"\u00d1U\u00d1OA",
+        "region":"METROPOLITANA DE SANTIAGO",
+        "Distrito":10,
+        "Diputados":8
+    }
+]
