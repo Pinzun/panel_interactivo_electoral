@@ -44,8 +44,8 @@ with open(ruta_imagen, encoding="utf-8") as f:
     svg_code = f.read()
 
 
-st.title('Diagrama metodológico')
-st.markdown(svg_code, unsafe_allow_html=True)
+#st.title('Diagrama metodológico')
+#st.markdown(svg_code, unsafe_allow_html=True)
 
 
 # Mostrar la tabla estilo Excel
