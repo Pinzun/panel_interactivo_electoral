@@ -51,6 +51,7 @@ def calcula_integracion(df_edited):
     ruta_proyectados = Path(__file__).parent.parent / "data" / "resultados_proyectados_senadores.json"    
     resultados_proyectados=pd.read_json(str(ruta_proyectados))
     resultados_proyectados = resultados_proyectados.loc[:, ~resultados_proyectados.columns.str.contains('^Unnamed')]
+    resultados_proyectados=resultados_proyectados.drop(columns=['Votos Blancos', 'Votos Nulos'])
     #Se calculan los votos de cada partido por distriro
     # Asegurarnos de que 'comunas_distrito' tiene 'comuna' como índice
     comunas_circun = comunas_circun.set_index('comuna')
