@@ -51,7 +51,7 @@ def calcula_integracion(df_edited):
     escaños=pd.read_json(str(ruta_escaños))    
     ruta_comunas = Path(__file__).parent.parent / "data" / "comunas_distrito.json"     
     comunas_distrito=pd.read_json(str(ruta_comunas))
-    ruta_proyectados = Path(__file__).parent.parent / "data" / "resultados_proyectados.json"    
+    ruta_proyectados = Path(__file__).parent.parent / "data" / "resultados_proyectados_diputados.json"    
     resultados_proyectados=pd.read_json(str(ruta_proyectados))
     resultados_proyectados = resultados_proyectados.loc[:, ~resultados_proyectados.columns.str.contains('^Unnamed')]
     #Se calculan los votos de cada partido por distriro
