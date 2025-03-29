@@ -4,8 +4,25 @@ from st_aggrid import AgGrid, GridOptionsBuilder
 from scripts.Calcula_integracion_dip import calcula_integracion as calcular_d
 from scripts.Calcula_integracion_senadores import calcula_integracion as calcular_s
 from pathlib import Path
+import base64
+import io
+import plotly.express as px
 
-from io import BytesIO
+#Define un CSS para centrar títulos
+st.markdown(
+    """
+    <style>
+        .centered-title {
+            text-align: center;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# Función para verificar si al menos un DataFrame en una lista no está vacío
+def not_empty(df_list):
+    return any(not df.empty for df in df_list)
 
 # Función para exportar a Excel en memoria
 def to_excel(df_edited, rp, rpart):
@@ -32,29 +49,54 @@ partidos = [
     'PH', 'PTR', 'PDG', 'IND'
 ]
 
-# Crear un dataframe de ejemplo con columnas 'Partido' y 'Pacto'
 data = {
-    'partido': partidos,
-    'pacto': ['' for _ in partidos]  # Inicia la columna 'Pacto' vacía
+    'Partido': partidos,  # Lista de partidos
+    'Escenario 1': [
+        'seguimos', 'seguimos', 'seguimos', 'seguimos', 'seguimos',
+        'seguimos', 'seguimos', 'seguimos', 'seguimos', 'chv',
+        'chv', 'chv', 'chv', 'chv', 'rep',
+        'rep', 'ultra', 'ultra', 'ultra', 'ultra',
+        'ptr', 'rep', 'ind'
+    ],
+    'Escenario 2': [
+        'izquierda', 'centro', 'izquierda', 'centro', 'izquierda',
+        'centro', 'centro', 'izquierda', 'izquierda', 'chv',
+        'chv', 'chv', 'chv', 'chv', 'rep',
+        'rep', 'ultra', 'ultra', 'ultra', 'ultra',
+        'ptr', 'rep', 'ind'
+    ]
 }
 
 df = pd.DataFrame(data)
 ruta_imagen = Path("images") / "diagrama_metodologia.drawio.svg"
-with open(ruta_imagen, encoding="utf-8") as f:
-    svg_code = f.read()
+# Cargar el contenido del archivo SVG
+with open(ruta_imagen, "rb") as f:  # 'rb' para leer en binario
+    svg_content = f.read()
 
+# Codificar en Base64
+encoded_svg = base64.b64encode(svg_content).decode()
 
-#st.title('Diagrama metodológico')
-#st.markdown(svg_code, unsafe_allow_html=True)
-
+# Aplica la clase al título
+st.markdown('<h1 class="centered-title">Diagrama metodología</h1>', unsafe_allow_html=True)
+# Insertar el SVG con estilo responsivo
+st.markdown(
+    f"""
+    <div style="display: flex; justify-content: center;">
+        <img src="data:image/svg+xml;base64,{encoded_svg}" 
+             style="max-width: 100%; height: auto;">
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # Mostrar la tabla estilo Excel
-st.title('Constructor de pactos')
-
+# Aplica la clase al título
+st.markdown('<h1 class="centered-title">Constructor de pactos</h1>', unsafe_allow_html=True)
 
 # Configurar la tabla para permitir la edición
 gb = GridOptionsBuilder.from_dataframe(df)
-gb.configure_column("pacto", editable=True)  # Hacer que la columna 'Pacto' sea editable
+gb.configure_column("Escenario 1", editable=True)
+gb.configure_column("Escenario 2", editable=True) 
 gridOptions = gb.build()
 
 # Mostrar la tabla estilo Excel
@@ -63,8 +105,6 @@ grid_response = AgGrid(df, gridOptions=gridOptions, enable_enterprise_modules=Tr
 
 # Obtener los datos actualizados después de la edición
 df_edited = grid_response['data']
-# Mostrar la tabla actualizada
-st.dataframe(df_edited)
 
 # Inicializar variables con DataFrames vacíos
 if 'resultados_pacto' not in st.session_state:
@@ -73,39 +113,157 @@ if 'resultados_partido' not in st.session_state:
     st.session_state['resultados_partido'] = pd.DataFrame()
 
 if st.button('Calcular Diputados'):
-    rp, rpart = calcular_d(df_edited)
-    st.session_state['resultados_pacto'] = rp
-    st.session_state['resultados_partido'] = rpart
+    df1 = df_edited[["Partido", "Escenario 1"]]
+    df1 = df1.rename(columns={
+    'Partido': 'partido',
+    'Escenario 1': 'pacto'
+    })
+    print(df1)
+    rp1, rpart1 = calcular_d(df1)
+    df2 = df_edited[["Partido", "Escenario 2"]]
+    df2 = df2.rename(columns={
+    'Partido': 'partido',
+    'Escenario 2': 'pacto'
+    })
+    rp2, rpart2 = calcular_d(df2)
+    
+    #Guardar los resultados en listas
+    st.session_state['resultados_pacto'] = [rp1, rp2]
+    st.session_state['resultados_partido'] = [rpart1, rpart2]
 
+    st.markdown('<h1 class="centered-title">Resultados</h1>', unsafe_allow_html=True)
 
+    st.subheader("Resultados por Pacto ")
+    #st.dataframe(rp1)
+    #st.dataframe(rp2)
+    col1, col2 = st.columns(2)
 
-    st.subheader("Resultados Pacto")
-    st.dataframe(rp)
+    with col1:
+        st.subheader("Resultados escenario 1")
+        st.dataframe(rp1)
 
+    with col2:
+        st.subheader("Resultados escenario 2")
+        st.dataframe(rp2)
 
-    st.subheader("Resultados Partido")
-    st.dataframe(rpart)
+    st.subheader("Resultados por partido ")
+    st.subheader("Resultados escenario 1")
+    st.dataframe(rpart1)
+    st.subheader("Resultados escenario 2")
+    st.dataframe(rpart2)
+
+    #delta_pacto = rp1 - rp2
+    delta_partido = rpart2 - rpart1
+   
+
+    st.subheader("Diferencia entre escenario 1 y 2 por partido")
+    #st.dataframe(delta_partido)
+    #print(delta_partido.columns)
+    # Suponiendo que delta_partido ya está calculado
+    ultima_fila = delta_partido.iloc[-1]  # Obtener la última fila    
+    # Crear gráfico de barras
+    # Crear un nuevo DataFrame con las columnas como valores en X
+    df_grafico = pd.DataFrame({
+        'Partido': ultima_fila.index,  # Nombres de los partidos (X)
+        'Diferencia': ultima_fila.values  # Valores de la última fila (Y)
+    })
+    # Crear gráfico de barras
+    fig = px.bar(df_grafico, x="Partido", y="Diferencia", 
+             labels={'Partido': 'Partido Político', 'Diferencia': 'Diferencia de escaños'},
+             text_auto=True,
+             color_discrete_sequence=["blue"])  # Personaliza el color
+    # Ajustar tamaño de fuente para mejorar la visualización
+    fig.update_traces(textfont_size=12, textposition="outside")
+    st.plotly_chart(fig)
 
 if st.button('Calcular Senadores'):
-    rp, rpart = calcular_s(df_edited)
-    st.session_state['resultados_pacto'] = rp
-    st.session_state['resultados_partido'] = rpart
+    df1 = df_edited[["Partido", "Escenario 1"]]
+    df1 = df1.rename(columns={
+    'Partido': 'partido',
+    'Escenario 1': 'pacto'
+    })
+    print(df1)
+    rp1, rpart1 = calcular_s(df1)
+    df2 = df_edited[["Partido", "Escenario 2"]]
+    df2 = df2.rename(columns={
+    'Partido': 'partido',
+    'Escenario 2': 'pacto'
+    })
+    rp2, rpart2 = calcular_s(df2)
+    
+    #Guardar los resultados en listas
+    st.session_state['resultados_pacto'] = [rp1, rp2]
+    st.session_state['resultados_partido'] = [rpart1, rpart2]
 
+    st.markdown('<h1 class="centered-title">Resultados</h1>', unsafe_allow_html=True)
 
+    st.subheader("Resultados por Pacto ")
+    #st.dataframe(rp1)
+    #st.dataframe(rp2)
+    col1, col2 = st.columns(2)
 
-    st.subheader("Resultados Pacto")
-    st.dataframe(rp)
+    with col1:
+        st.subheader("Resultados escenario 1")
+        st.dataframe(rp1)
 
+    with col2:
+        st.subheader("Resultados escenario 2")
+        st.dataframe(rp2)
 
-    st.subheader("Resultados Partido")
-    st.dataframe(rpart)
+    st.subheader("Resultados por partido ")
+    st.subheader("Resultados escenario 1")
+    st.dataframe(rpart1)
+    st.subheader("Resultados escenario 2")
+    st.dataframe(rpart2)
 
-    # Botón para descargar el archivo Excel
-if not st.session_state['resultados_pacto'].empty and not st.session_state['resultados_partido'].empty:
-    excel_data = to_excel(df_edited, st.session_state['resultados_pacto'], st.session_state['resultados_partido'])
+    #delta_pacto = rp1 - rp2
+    delta_partido = rpart2 - rpart1
+
+    st.subheader("Diferencia entre escenario 1 y 2 por partido")
+    st.dataframe(delta_partido)
+    #st.subheader("Diferencia entre escenario 1 y 2 por pacto")
+    #st.dataframe(delta_pacto)
+    # Crear gráfico de barras
+    fig = px.bar(delta_partido, x=delta_partido.index, y=delta_partido.columns[0], 
+             labels={'x': 'Partido', 'y': 'Diferencia de escaños'},              
+             text_auto=True,
+             color_discrete_sequence=["blue"])  # Personaliza el color
+    # Ajustar tamaño de fuente para mejorar la visualización
+    fig.update_traces(textfont_size=12, textposition="outside")
+    # Mostrar en Streamlit
+    st.plotly_chart(fig)
+
+# Botón para descargar el archivo Excel
+# Verificar si las listas no están vacías y si los DataFrames dentro de ellas no están vacíos
+# Verificar que las listas no estén vacías
+if not_empty(st.session_state['resultados_pacto']) and not_empty(st.session_state['resultados_partido']):
+    # Crear un buffer en memoria para almacenar el archivo Excel
+    output = io.BytesIO()
+    
+    # Usamos ExcelWriter para escribir en el buffer
+    with pd.ExcelWriter(output, engine='xlsxwriter') as writer:
+        # Opcional: escribir el DataFrame original en una hoja (por ejemplo, 'Datos Originales')
+        #df_edited.to_excel(writer, sheet_name='Datos Originales', index=False)
+        combined=df_edited
+        sheet_name = "Pactos"
+        combined.to_excel(writer, sheet_name=sheet_name, index=False)   
+        
+        # Iterar sobre los resultados y escribir cada par en una hoja separada
+        for index, (resultado_pacto, resultado_partido) in enumerate(zip(st.session_state['resultados_pacto'],
+                                                                          st.session_state['resultados_partido'])):
+            # Combinar los dos DataFrames (por ejemplo, concatenándolos horizontalmente)
+            combined = pd.concat([resultado_pacto, resultado_partido], axis=1)
+            
+            # Definir un nombre de hoja único para cada iteración
+            sheet_name = f"Pacto escenario {index + 1}"
+            combined.to_excel(writer, sheet_name=sheet_name, index=False)      
+        
+    output.seek(0)
+    excel_data = output.getvalue()
+    
     st.download_button(
         label="Descargar Resultados en Excel",
         data=excel_data,
-        file_name="resultados_pactos.xlsx",
+        file_name="resultados.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
