@@ -219,18 +219,21 @@ if st.button('Calcular Senadores'):
     #delta_pacto = rp1 - rp2
     delta_partido = rpart2 - rpart1
 
-    st.subheader("Diferencia entre escenario 1 y 2 por partido")
-    st.dataframe(delta_partido)
-    #st.subheader("Diferencia entre escenario 1 y 2 por pacto")
-    #st.dataframe(delta_pacto)
+    st.subheader("Diferencia entre escenario 1 y 2 por partido")    
+    ultima_fila = delta_partido.iloc[-1]  # Obtener la última fila    
     # Crear gráfico de barras
-    fig = px.bar(delta_partido, x=delta_partido.index, y=delta_partido.columns[0], 
-             labels={'x': 'Partido', 'y': 'Diferencia de escaños'},              
+    # Crear un nuevo DataFrame con las columnas como valores en X
+    df_grafico = pd.DataFrame({
+        'Partido': ultima_fila.index,  # Nombres de los partidos (X)
+        'Diferencia': ultima_fila.values  # Valores de la última fila (Y)
+    })
+    # Crear gráfico de barras
+    fig = px.bar(df_grafico, x="Partido", y="Diferencia", 
+             labels={'Partido': 'Partido Político', 'Diferencia': 'Diferencia de escaños'},
              text_auto=True,
              color_discrete_sequence=["blue"])  # Personaliza el color
     # Ajustar tamaño de fuente para mejorar la visualización
     fig.update_traces(textfont_size=12, textposition="outside")
-    # Mostrar en Streamlit
     st.plotly_chart(fig)
 
 # Botón para descargar el archivo Excel
