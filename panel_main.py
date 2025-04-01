@@ -8,6 +8,8 @@ import base64
 import io
 import plotly.express as px
 
+
+
 #Define un CSS para centrar títulos
 st.markdown(
     """
@@ -67,18 +69,31 @@ data = {
     ]
 }
 
+
 df = pd.DataFrame(data)
+# Explicación de uso
+st.markdown('<h1 class="centered-title">Calculadora de Integración Electoral</h1>', unsafe_allow_html=True)
+st.write(
+    "Esta herramienta permite simular los resultados electorales de los distintos partidos políticos de Chile en función de los pactos electorales que formen. "
+    "Cada partido tiene una proyección de votos basada en los resultados de las elecciones de 2024 y en la presencia de candidaturas incumbentes."
+    "\n\n"
+    "**¿Cómo utilizar la herramienta?**\n"
+    "1. Completa el **constructor de pactos** con las configuraciones deseadas."
+    "2. La tabla permite simular **dos escenarios de pactos distintos**, los cuales serán comparados gráficamente."
+    "3. Si un partido obtiene un resultado negativo, significa que en el segundo escenario pierde diputados ( o senadores) respecto al primero."
+    "\n\n"
+    "A continuación, se presenta la metodología utilizada para la proyección electoral:"
+)
+
+# Cargar y mostrar la imagen de la metodología
 ruta_imagen = Path("images") / "diagrama_metodologia.drawio.svg"
-# Cargar el contenido del archivo SVG
-with open(ruta_imagen, "rb") as f:  # 'rb' para leer en binario
+
+with open(ruta_imagen, "rb") as f:
     svg_content = f.read()
+    encoded_svg = base64.b64encode(svg_content).decode()
 
-# Codificar en Base64
-encoded_svg = base64.b64encode(svg_content).decode()
+st.markdown("### ¿Diagrama de Metodología", unsafe_allow_html=True)
 
-# Aplica la clase al título
-st.markdown('<h1 class="centered-title">Diagrama metodología</h1>', unsafe_allow_html=True)
-# Insertar el SVG con estilo responsivo
 st.markdown(
     f"""
     <div style="display: flex; justify-content: center;">
@@ -91,12 +106,17 @@ st.markdown(
 
 # Mostrar la tabla estilo Excel
 # Aplica la clase al título
-st.markdown('<h1 class="centered-title">Constructor de pactos</h1>', unsafe_allow_html=True)
+st.markdown('### Constructor de pactos', unsafe_allow_html=True)
 
 # Configurar la tabla para permitir la edición
 gb = GridOptionsBuilder.from_dataframe(df)
 gb.configure_column("Escenario 1", editable=True)
-gb.configure_column("Escenario 2", editable=True) 
+gb.configure_column("Escenario 2", editable=True)
+
+# Ajustar automáticamente el tamaño de todas las columnas
+gb.configure_grid_options(autoSizeMode="fitAllColumnsToView")
+
+
 gridOptions = gb.build()
 
 # Mostrar la tabla estilo Excel
@@ -131,31 +151,9 @@ if st.button('Calcular Diputados'):
     st.session_state['resultados_pacto'] = [rp1, rp2]
     st.session_state['resultados_partido'] = [rpart1, rpart2]
 
-    st.markdown('<h1 class="centered-title">Resultados</h1>', unsafe_allow_html=True)
-
-    st.subheader("Resultados por Pacto ")
-    #st.dataframe(rp1)
-    #st.dataframe(rp2)
-    col1, col2 = st.columns(2)
-
-    with col1:
-        st.subheader("Resultados escenario 1")
-        st.dataframe(rp1)
-
-    with col2:
-        st.subheader("Resultados escenario 2")
-        st.dataframe(rp2)
-
-    st.subheader("Resultados por partido ")
-    st.subheader("Resultados escenario 1")
-    st.dataframe(rpart1)
-    st.subheader("Resultados escenario 2")
-    st.dataframe(rpart2)
-
+    st.markdown('### Resultados', unsafe_allow_html=True)
     #delta_pacto = rp1 - rp2
     delta_partido = rpart2 - rpart1
-   
-
     st.subheader("Diferencia entre escenario 1 y 2 por partido")
     #st.dataframe(delta_partido)
     #print(delta_partido.columns)
@@ -176,6 +174,28 @@ if st.button('Calcular Diputados'):
     fig.update_traces(textfont_size=12, textposition="outside")
     st.plotly_chart(fig)
 
+
+    st.subheader("Resultados por Pacto ")
+    #st.dataframe(rp1)
+    #st.dataframe(rp2)
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.subheader("Resultados escenario 1")
+        st.dataframe(rp1)
+
+    with col2:
+        st.subheader("Resultados escenario 2")
+        st.dataframe(rp2)
+
+    st.subheader("Resultados por partido ")
+    st.subheader("Resultados escenario 1")
+    st.dataframe(rpart1)
+    st.subheader("Resultados escenario 2")
+    st.dataframe(rpart2)   
+
+
+
 if st.button('Calcular Senadores'):
     df1 = df_edited[["Partido", "Escenario 1"]]
     df1 = df1.rename(columns={
@@ -195,26 +215,7 @@ if st.button('Calcular Senadores'):
     st.session_state['resultados_pacto'] = [rp1, rp2]
     st.session_state['resultados_partido'] = [rpart1, rpart2]
 
-    st.markdown('<h1 class="centered-title">Resultados</h1>', unsafe_allow_html=True)
-
-    st.subheader("Resultados por Pacto ")
-    #st.dataframe(rp1)
-    #st.dataframe(rp2)
-    col1, col2 = st.columns(2)
-
-    with col1:
-        st.subheader("Resultados escenario 1")
-        st.dataframe(rp1)
-
-    with col2:
-        st.subheader("Resultados escenario 2")
-        st.dataframe(rp2)
-
-    st.subheader("Resultados por partido ")
-    st.subheader("Resultados escenario 1")
-    st.dataframe(rpart1)
-    st.subheader("Resultados escenario 2")
-    st.dataframe(rpart2)
+    st.markdown('### Resultados', unsafe_allow_html=True)
 
     #delta_pacto = rp1 - rp2
     delta_partido = rpart2 - rpart1
@@ -235,6 +236,27 @@ if st.button('Calcular Senadores'):
     # Ajustar tamaño de fuente para mejorar la visualización
     fig.update_traces(textfont_size=12, textposition="outside")
     st.plotly_chart(fig)
+
+    st.subheader("Resultados por Pacto ")
+    #st.dataframe(rp1)
+    #st.dataframe(rp2)
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.subheader("Resultados escenario 1")
+        st.dataframe(rp1)
+
+    with col2:
+        st.subheader("Resultados escenario 2")
+        st.dataframe(rp2)
+
+    st.subheader("Resultados por partido ")
+    st.subheader("Resultados escenario 1")
+    st.dataframe(rpart1)
+    st.subheader("Resultados escenario 2")
+    st.dataframe(rpart2)
+
+
 
 # Botón para descargar el archivo Excel
 # Verificar si las listas no están vacías y si los DataFrames dentro de ellas no están vacíos
