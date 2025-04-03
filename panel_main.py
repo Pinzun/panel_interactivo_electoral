@@ -92,7 +92,7 @@ with open(ruta_imagen, "rb") as f:
     svg_content = f.read()
     encoded_svg = base64.b64encode(svg_content).decode()
 
-st.markdown("### ¿Diagrama de Metodología", unsafe_allow_html=True)
+st.markdown("### Diagrama de Metodología", unsafe_allow_html=True)
 
 st.markdown(
     f"""
